@@ -45,6 +45,7 @@ jobs:
           # `pyproject.toml:build-system.requires`
           - "v0.10.2"
           - "v0.11.0"
+          - "v0.11.1rc6"
 
     steps:
       - name: Check out the repository
